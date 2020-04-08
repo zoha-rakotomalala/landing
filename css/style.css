@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Merienda:wght@700&family=Roboto&display=swap");
+
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body{
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  margin:0px;
+}
+
+h1{
+  font-family: 'Merienda', cursive;
+  font-weight: bold;
+}
+
+h2, h3{
+  font-family: 'Roboto', sans-serif;
+  font-weight:bold;
+}
+
+a{
+  text-decoration: none;
+}
